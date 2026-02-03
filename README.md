@@ -1,5 +1,13 @@
 # About Me:
-Hi. I'm Tyg, a software developer and designer based in Scotland. I build web applications and visual assets with a focus on clean code and user experience. I'm currently a student studying software development and digital design, and the founder of Polaris, a small, independently run web and software group.<br><br>Technical Skills:<br>Programming & Logic: Python, C#, General Application Logic, Logical problem-solving.<br>Operating Systems: Windows, macOS, Linux.<br>Design & UI: GUI development and user-focused application design.<br>Media Production: Video, audio, and graphic design editing.<br>Customer Service Tools: POS systems, booking software, and digital payment platforms.<br>Cybersecurity Basics: Understanding of fundamental cybersecurity principles and best practices.
+Hi. I'm Tyg, a software developer and designer based in Scotland. I build web applications and visual assets with a focus on clean code and user experience. I'm currently a student studying software development and digital design, and the founder of Polaris, a small, independently run web and software group.<br>
+
+<br>## Technical Skills:<br>
+- Programming & Logic: Python, C#, General Application Logic, Logical problem-solving.
+- Operating Systems: Windows, macOS, Linux.
+- Design & UI: GUI development and user-focused application design.
+- Media Production: Video, audio, and graphic design editing.
+- Customer Service Tools: POS systems, booking software, and digital payment platforms.
+- Cybersecurity Basics: Understanding of fundamental cybersecurity principles and best practices.
 
 
 ## 🌐 Socials:
