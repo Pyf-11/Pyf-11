@@ -3,6 +3,7 @@ Hi. I'm Tyg, a software developer and designer based in Scotland. I build web ap
 
 ## Technical Skills:
 - Programming & Logic: Python, C#, General Application Logic, Logical problem-solving.
+- Web Development: HTML, CSS, and JavaScript basics.
 - Operating Systems: Windows, macOS, Linux.
 - Design & UI: GUI development and user-focused application design.
 - Media Production: Video, audio, and graphic design editing.
